@@ -36,12 +36,12 @@ const seedDB = async() => {
       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus facere minima praesentium a asperiores, at sed sint quasi adipisci veniam id quibusdam expedita sequi eum, sapiente eveniet! Accusantium, nisi autem.',
       images: [
     {
-      url: 'https://res.cloudinary.com/dr9msqikj/image/upload/v1638924991/YelpCamp/b4rn70yyjj4zsthftdum.jpg',
-      filename: 'YelpCamp/b4rn70yyjj4zsthftdum',
+      url: 'https://res.cloudinary.com/dr9msqikj/image/upload/v1640927030/YelpCamp/xpfpjrj2ebeprmbxlkg8.jpg',
+      filename: 'YelpCamp/xpfpjrj2ebeprmbxlkg8',
     },
     {
-      url: 'https://res.cloudinary.com/dr9msqikj/image/upload/v1638924992/YelpCamp/uijsd2gm43qguw3pmgw2.png',
-      filename: 'YelpCamp/uijsd2gm43qguw3pmgw2',
+      url: 'https://res.cloudinary.com/dr9msqikj/image/upload/v1640927609/YelpCamp/synsdfy3tz3k6y8679m6.jpg',
+      filename: 'YelpCamp/synsdfy3tz3k6y8679m6',
     }
   ]
     })
